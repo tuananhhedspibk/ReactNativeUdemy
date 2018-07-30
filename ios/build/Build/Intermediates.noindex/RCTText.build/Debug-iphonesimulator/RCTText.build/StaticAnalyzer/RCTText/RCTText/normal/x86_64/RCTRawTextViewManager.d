@@ -25,5 +25,4 @@ dependencies: \
   /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/Libraries/Text/RawText/RCTRawTextShadowView.h \
   /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
   /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h

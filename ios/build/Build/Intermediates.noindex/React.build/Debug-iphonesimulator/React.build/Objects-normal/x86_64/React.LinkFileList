@@ -1,5 +1,4 @@
 /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTCxxMethod.o
-/Users/mac/Program/Code/rn-tutorials/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/JSExecutor.o
 /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTUIManagerUtils.o
 /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTShadowView+Internal.o
 /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTStatusBarManager.o
@@ -52,7 +51,6 @@
 /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTEventEmitter.o
 /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSurfaceRootShadowView.o
 /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTJavaScriptLoader.o
-/Users/mac/Program/Code/rn-tutorials/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTVersion.o
 /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTPerfMonitor.o
 /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTLayoutAnimation.o
 /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTCxxModule.o
@@ -76,7 +74,6 @@
 /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTAppState.o
 /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTRootContentView.o
 /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/UIView+React.o
-/Users/mac/Program/Code/rn-tutorials/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTLayout.o
 /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTRedBoxExtraDataViewController.o
 /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSliderManager.o
 /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTDeviceInfo.o
@@ -103,7 +100,6 @@
 /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTKeyCommands.o
 /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTUtils.o
 /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTConvert+Transform.o
-/Users/mac/Program/Code/rn-tutorials/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/YGConfig.o
 /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTRefreshControl.o
 /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTDatePickerManager.o
 /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTWebView.o

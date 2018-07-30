@@ -40,6 +40,4 @@ dependencies: \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTPropsAnimatedNode.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTSpringAnimation.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTStyleAnimatedNode.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTSubtractionAnimatedNode.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTransformAnimatedNode.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTrackingAnimatedNode.h
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTransformAnimatedNode.h

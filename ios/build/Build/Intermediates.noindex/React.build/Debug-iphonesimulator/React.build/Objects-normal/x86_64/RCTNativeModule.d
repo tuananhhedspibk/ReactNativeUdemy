@@ -4,8 +4,8 @@ dependencies: \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTModuleData.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTInvalidating.h \
   /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/NativeModule.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Optional.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/dynamic.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Optional.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/dynamic.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/boost_1_63_0/boost/operators.hpp \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/boost_1_63_0/boost/config.hpp \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/boost_1_63_0/boost/config/user.hpp \
@@ -18,18 +18,18 @@ dependencies: \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/boost_1_63_0/boost/config/posix_features.hpp \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/boost_1_63_0/boost/config/suffix.hpp \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/boost_1_63_0/boost/detail/workaround.hpp \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Range.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/FBString.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Portability.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/portability/Config.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/CPortability.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Hash.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/ApplyTuple.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Bits.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/portability/Builtins.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Assume.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/detail/BitsDetail.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/detail/BitIteratorDetail.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Range.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/FBString.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Portability.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/portability/Config.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/CPortability.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Hash.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/ApplyTuple.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Bits.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/portability/Builtins.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Assume.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/detail/BitsDetail.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/detail/BitIteratorDetail.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/boost_1_63_0/boost/iterator/iterator_adaptor.hpp \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/boost_1_63_0/boost/static_assert.hpp \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/boost_1_63_0/boost/iterator.hpp \
@@ -224,13 +224,13 @@ dependencies: \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/preprocessed/gcc/template_arity.hpp \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/preprocessed/gcc/full_lambda.hpp \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/preprocessed/gcc/apply.hpp \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Likely.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/SpookyHashV1.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/SpookyHashV2.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Malloc.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/detail/Malloc.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/portability/BitsFunctexcept.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Traits.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Likely.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/SpookyHashV1.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/SpookyHashV2.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Malloc.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/detail/Malloc.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/portability/BitsFunctexcept.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Traits.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits.hpp \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/add_cv.hpp \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/add_rvalue_reference.hpp \
@@ -341,40 +341,40 @@ dependencies: \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/type_identity.hpp \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/integral_promotion.hpp \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/promote.hpp \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/portability/Constexpr.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/portability/String.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/portability/Constexpr.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/portability/String.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/glog-0.3.4/src/glog/logging.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/glog-0.3.4/src/glog/log_severity.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/glog-0.3.4/src/glog/vlog_is_on.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/CpuId.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/detail/RangeCommon.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/detail/RangeSse42.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/dynamic-inl.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Conv.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/CpuId.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/detail/RangeCommon.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/detail/RangeSse42.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/dynamic-inl.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Conv.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/boost_1_63_0/boost/implicit_cast.hpp \
   /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/double-conversion/double-conversion.h \
   /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/double-conversion/utils.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Demangle.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Expected.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Preprocessor.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Unit.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/portability/Math.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Format.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/String.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Demangle.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Expected.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Preprocessor.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Unit.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/portability/Math.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Format.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/String.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/boost_1_63_0/boost/regex/pending/unicode_iterator.hpp \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/boost_1_63_0/boost/cstdint.hpp \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/boost_1_63_0/boost/assert.hpp \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/boost_1_63_0/boost/throw_exception.hpp \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/ExceptionString.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/FBVector.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/FormatTraits.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/ScopeGuard.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/detail/UncaughtExceptionCounter.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/String-inl.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/FormatArg.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Format-inl.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Exception.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/portability/Windows.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/ExceptionString.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/FBVector.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/FormatTraits.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/ScopeGuard.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/detail/UncaughtExceptionCounter.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/String-inl.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/FormatArg.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Format-inl.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Exception.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/portability/Windows.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTBridge.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
@@ -385,14 +385,15 @@ dependencies: \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/CxxModule/RCTCxxUtils.h \
   /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSCExecutor.h \
   /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSCNativeModules.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/ModuleRegistry.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSExecutor.h \
   /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/Value.h \
   /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
   /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
   /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/Unicode.h \
   /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/noncopyable.h \
   /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/privatedata/PrivateDataBase.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSExecutor.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/json.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/json.h \
   /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCHelpers.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/CxxUtils/RCTFollyConvert.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTLog.h \

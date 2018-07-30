@@ -29,8 +29,5 @@ dependencies: \
   /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
   /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
   /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryView.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryViewContent.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/Libraries/Text/TextInput/RCTTextSelection.h

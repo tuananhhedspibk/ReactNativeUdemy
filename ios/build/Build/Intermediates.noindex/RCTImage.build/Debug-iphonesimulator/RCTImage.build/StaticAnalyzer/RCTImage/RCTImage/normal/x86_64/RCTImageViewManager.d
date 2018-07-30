@@ -29,6 +29,5 @@ dependencies: \
   /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/Libraries/Image/RCTImageShadowView.h \
   /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
   /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/Libraries/Image/RCTImageView.h

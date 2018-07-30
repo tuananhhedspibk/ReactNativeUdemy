@@ -29,5 +29,4 @@ dependencies: \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Views/RCTModalManager.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Modules/RCTEventEmitter.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Views/RCTShadowView.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Views/RCTLayout.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTRootView.h

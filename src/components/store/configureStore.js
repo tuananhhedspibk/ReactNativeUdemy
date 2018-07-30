@@ -1,9 +1,9 @@
 import { createStore, combineReducers, compose } from 'redux';
 
-import placeReducer from './reducers/places';
+import placesReducer from './reducers/places';
 
 const rootReducer = combineReducers({
-  places: placeReducer
+  places: placesReducer
 });
 
 // Use compose function to add middleware to store
@@ -17,7 +17,7 @@ if (__DEV__) {
 }
 
 const configureStore = () => {
-  return createStore(rootReducer);
+  return createStore(rootReducer, composeEnhancers());
 };
 
 export default configureStore;

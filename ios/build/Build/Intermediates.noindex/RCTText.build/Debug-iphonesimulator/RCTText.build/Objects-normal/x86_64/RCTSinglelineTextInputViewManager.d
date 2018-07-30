@@ -28,10 +28,8 @@ dependencies: \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputShadowView.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
   /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
   /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/Libraries/Text/TextInput/Singleline/RCTSinglelineTextInputView.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.h \
   /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \

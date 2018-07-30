@@ -23,8 +23,4 @@ dependencies: \
   /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
   /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
   /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryShadowView.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryView.h

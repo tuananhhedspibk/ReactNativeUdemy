@@ -25,5 +25,4 @@ dependencies: \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Views/UIView+React.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTParserUtils.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Views/RCTShadowView.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Views/RCTLayout.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTRootView.h

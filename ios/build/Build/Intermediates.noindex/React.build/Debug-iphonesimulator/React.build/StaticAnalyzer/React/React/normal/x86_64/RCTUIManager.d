@@ -38,7 +38,6 @@ dependencies: \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Views/RCTView.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Views/RCTRootShadowView.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Views/RCTShadowView.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Views/RCTLayout.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTRootViewInternal.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Views/ScrollView/RCTScrollableProtocol.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Views/RCTShadowView+Internal.h \

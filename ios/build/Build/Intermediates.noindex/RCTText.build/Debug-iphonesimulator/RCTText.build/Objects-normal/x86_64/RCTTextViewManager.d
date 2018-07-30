@@ -27,13 +27,10 @@ dependencies: \
   /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAccessibilityManager.h \
   /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView+Layout.h \
   /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
   /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
   /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManagerUtils.h \
   /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManagerObserverCoordinator.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/Libraries/Text/Text/RCTTextShadowView.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/Libraries/Text/Text/RCTTextView.h

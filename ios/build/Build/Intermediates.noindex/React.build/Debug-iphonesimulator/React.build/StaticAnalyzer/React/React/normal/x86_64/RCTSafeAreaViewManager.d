@@ -25,7 +25,6 @@ dependencies: \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Views/RCTComponent.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Views/SafeAreaView/RCTSafeAreaShadowView.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Views/RCTShadowView.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Views/RCTLayout.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTRootView.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Views/SafeAreaView/RCTSafeAreaView.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Views/RCTView.h \

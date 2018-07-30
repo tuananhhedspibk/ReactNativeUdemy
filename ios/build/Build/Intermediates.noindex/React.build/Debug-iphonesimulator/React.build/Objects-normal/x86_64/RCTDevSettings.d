@@ -16,8 +16,8 @@ dependencies: \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTLog.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTAssert.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTUtils.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Profiler/RCTProfile.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Profiler/RCTProfile.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h

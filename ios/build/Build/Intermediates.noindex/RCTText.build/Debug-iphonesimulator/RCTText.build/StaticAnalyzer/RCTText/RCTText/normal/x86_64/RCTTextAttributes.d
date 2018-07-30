@@ -2,7 +2,6 @@ dependencies: \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/Libraries/Text/RCTTextAttributes.m \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
   /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
-  /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
   /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
   /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
   /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFont.h \
