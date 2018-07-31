@@ -38,3 +38,9 @@ ext {
     targetSdkVersion = 26
     supportLibVersion = "26.1.0"
 }
+
+project.ext.vectoricons = [
+    iconFontNames: [ 'Ionicons.ttf' ] // Name of the font files you want to copy
+]
+
+apply from: "../../node_modules/react-native-vector-icons/fonts.gradle"
