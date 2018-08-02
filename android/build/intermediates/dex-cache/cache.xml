@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/f9860be134ca7d44457280fc02454c7106852050/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/pre-dexed/debug/classes_15383a3a1135a5e8aa9ef67389e38bc112d40e7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_d0460bbb868471577f9eb543de2348658531efbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/f1a40c418d0ce2f5489ca7bda41d04306435010d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/pre-dexed/debug/classes_e59e05b19fe9d0646ee0fc59acc400dd3660d7f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/874d41d9269cb78ba4b472f657f53e8ab759316e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/pre-dexed/debug/classes_35c8d960563c3263e71cf98b2725c7a4ecbbd68f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/e2d038d2eeefc7068ee98a7c9602bad209902137/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/pre-dexed/debug/classes_5c627fe76747d9ccfdc62bdcfa28565721e37597.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_fcd7bf57330797c3eaeb05d042207c4ab7ecac63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_5be75ef1ac6d77254d85619bf4cdd0e82c006901.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_0a6b128861e7781a2bf4f70049616c364a95eb97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/1bc78ed0944a6d4a6937fe210f27ba98caeb75d5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/pre-dexed/debug/classes_d51c20d89393fe75f68cef0d5ee4d763e2ed3566.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/c396580d9ac177e37c4462ddde7d513b947e6960/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/pre-dexed/debug/classes_608901ea5e26716cd88b0165276082392a97e21e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/f065e8cb6b94fdbdb36f6c41b90c6b7587fca478/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/pre-dexed/debug/classes_74cc2c87255b8c271ccb7cc226091c3890cb2d9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/b1219ba296c8b6204e93027c855cb8c52e35c3e4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/pre-dexed/debug/classes_a4660a78c2a36485a9eb6926d70b87060f6e37bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/5730332ecb610d7afe4a5f5dc51a7555a28e8058/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/pre-dexed/debug/classes_335ce51cf1489868535b293ca2ac629fbc36c02d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/f6bed3760306e7bb6b52c0186dfbdc73c4258d0a/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_799aa798b18a1820b32b54e584d27bc8f5736ac6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/1cf3310509cb0f15bcc3d0e4fee3771049923efd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/pre-dexed/debug/classes_98521b14876ed6cb962a2dfa4ba7fa5d15bff35b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/80aacf1d4643cf09198b41716d7ba015de804cb9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/pre-dexed/debug/classes_3f454fb1ae8e1bf582c8890b1541944992fc2cd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_912aedf677fea61545c26e16ef249fbf363359cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/d710c4cb70121fa33984c284e99f1c6b22dd0f1c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/pre-dexed/debug/classes_d88ec8d26b46bf5549063ceb0f0308e3f19dbb4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/c35fe5d964e2577cbf2ff190d863c77ca5852c8a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/pre-dexed/debug/classes_478372cea571e597ee68060769fd9b69c705b2e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_3c50eeb440e9dd58845524e0d8c6f931a3ddc072.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/176d41287a95255f727bfe38e0ea25c56f477e59/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/pre-dexed/debug/classes_ac16f5023a3bca82754b842f0f2b1928b4f401b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/f6bed3760306e7bb6b52c0186dfbdc73c4258d0a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9236445249b688377917bbf182bb651ba5a9c5f1">
+        <dex dex="/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/pre-dexed/debug/classes_77849a33c30b2aa2959a8167d4219ce6f485f81d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_6237cb659935fe231c8d403264e04eddc286592a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/cbb4cf3414f416aa60c794d92df41271860fa4cb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/pre-dexed/debug/classes_77034ab1944c48dfdbfc600288e264ed7a898a9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Program/Code/rn-tutorials/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0e0b5d5ad70eb73e694f8fa35518aca16fc28b96">
+        <dex dex="/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/pre-dexed/debug/classes_afdd1d49f4615a5bcdae2e826011c57a370eea22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/e31a85e1250913f90ad1c4b93b44f3fbcd305492/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/pre-dexed/debug/classes_b6600de28e8d4dd7b2beda55c18cf2fb28c33bd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/e9b3f39381e92eaf8a0968e4d7a1eb8843390e9a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/pre-dexed/debug/classes_007c554eb4648227b69189c69e3ad701a20f2199.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_c02d03f74531908d709b1d2e7e82034acbbe5a5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/5f169f444e6d199f4c68ac9b3aed9c3471aea1e0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/pre-dexed/debug/classes_da8d8f57570cfecdb6517fbd0a31f4cd96684b49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/dd3bff52b2319f7b6f793fa5b9b85edbaa9c229b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/pre-dexed/debug/classes_3d847e2ea5ad79a6aaf935da0e01ac1ed4eae1d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_836d66f8e757e7d24929f36349491c37f5a6606e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/f01dbdea102b3effde2878d5ba47a9c198cb7636/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/pre-dexed/debug/classes_87627fb099bbcc86ca86f401e7f99edf1806b824.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/064101f1e9010dd636dc48576ab41767dc130766/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/pre-dexed/debug/classes_74129fdbcd54db5df1e0dd1ca3b749f07ad9ef2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_86790f29bdcbc64bd0673e22524f493514468629.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Program/Code/rn-tutorials/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/pre-dexed/debug/classes_e2250df62eec934ce2e04c1b4600901d0deacf52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/bff4f15234fa5ebb9189c5bcbcbc877b6ba15068/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/pre-dexed/debug/classes_884097766238183e316257f87bb9ebc817526920.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_81f63147293c80992186865712de6648b741fa96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/57ec6872528c0fe2903b7c265234356ed8314585/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/pre-dexed/debug/classes_af169e558437ccac7f85e27e4f1161cfb3a5b40b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/efe599f543e8d5f33e6c7193dd4ba415bd3f0ea7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/pre-dexed/debug/classes_dda00f225eb7c222444c6c5ad9bbf174f9280d77.jar" />
+    </item>
+
+</items>

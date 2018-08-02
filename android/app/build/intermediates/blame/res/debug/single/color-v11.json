@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/mac/.android/build-cache/d710c4cb70121fa33984c284e99f1c6b22dd0f1c/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/mac/.android/build-cache/d710c4cb70121fa33984c284e99f1c6b22dd0f1c/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

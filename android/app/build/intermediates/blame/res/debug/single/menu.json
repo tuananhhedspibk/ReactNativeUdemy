@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/res/merged/debug/menu/stub.xml",
+        "source": "/Users/mac/Program/Code/rn-tutorials/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/menu/stub.xml"
+    },
+    {
+        "merged": "/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/res/merged/debug/menu/search_item.xml",
+        "source": "/Users/mac/Program/Code/rn-tutorials/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/menu/search_item.xml"
+    }
+]

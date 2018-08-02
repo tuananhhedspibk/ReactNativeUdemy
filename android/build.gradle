@@ -31,6 +31,17 @@ allprojects {
     }
 }
 
+subprojects { 
+     afterEvaluate { 
+         project -> if (project.hasProperty("android")) { 
+             android { 
+                 compileSdkVersion 26 
+                buildToolsVersion '26.0.2' 
+             } 
+         } 
+     } 
+ }
+
 ext {
     buildToolsVersion = "26.0.3"
     minSdkVersion = 16
@@ -38,9 +49,3 @@ ext {
     targetSdkVersion = 26
     supportLibVersion = "26.1.0"
 }
-
-project.ext.vectoricons = [
-    iconFontNames: [ 'Ionicons.ttf' ] // Name of the font files you want to copy
-]
-
-apply from: "../../node_modules/react-native-vector-icons/fonts.gradle"
