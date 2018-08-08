@@ -13,6 +13,10 @@ import { addPlace } from '../../store/actions/index';
 
 
 class SharePlaceScreen extends Component {
+  static navigatorStyle = {
+    navBarButtonColor: 'orange'
+  }
+
   state = {
     placeName: ''
   };
