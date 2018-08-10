@@ -69,6 +69,10 @@ MERGED from [com.facebook.react:react-native:0.54.4] /Users/mac/.gradle/caches/t
 MERGED from [com.facebook.react:react-native:0.54.4] /Users/mac/.gradle/caches/transforms-1/files-1.1/react-native-0.54.4.aar/f08987d38faac22738181f642fa9f268/AndroidManifest.xml:11:5-78
 	android:name
 		ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:6:22-76
 application
 ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:7:5-27:19
 MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.0.1.aar/e017fdd6b6fea379e8b173ad3ddfb3bb/AndroidManifest.xml:24:5-19

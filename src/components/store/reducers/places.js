@@ -13,7 +13,8 @@ const reducer = (state = initialState, action) => {
         places: state.places.concat({
           key: Math.random(),
           name: action.placeName,
-          image: require('../../../assets/TomRiddle.jpg')
+          image: require('../../../assets/TomRiddle.jpg'),
+          location: action.location
         })
       };
     case DELETE_PLACE:
