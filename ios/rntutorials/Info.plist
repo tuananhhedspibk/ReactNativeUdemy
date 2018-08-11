@@ -2,6 +2,14 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Let&apos;s talking!</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Image option</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Let&apos;s take an image!</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Pick an image!</string>
 	<key>UIAppFonts</key>
 	<array>
 		<string>Ionicons.ttf</string>

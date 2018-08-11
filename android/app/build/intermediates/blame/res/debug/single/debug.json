@@ -888,6 +888,10 @@
         "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b1ef84330b501df8e56cd92ab915c363/res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png"
     },
     {
+        "merged": "/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/res/merged/debug/xml_provider_paths.xml.flat",
+        "source": "/Users/mac/Program/Code/rn-tutorials/node_modules/react-native-image-picker/android/build/intermediates/packaged_res/debug/xml/provider_paths.xml"
+    },
+    {
         "merged": "/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_design_ic_visibility.png.flat",
         "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/7af08b48bb700bd32574d8dd2fa165c6/res/drawable-xxhdpi-v4/design_ic_visibility.png"
     },
@@ -1942,6 +1946,10 @@
     {
         "merged": "/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
         "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/fb76f87dcafaa5a9a549b63b302db081/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/res/merged/debug/layout_list_item.xml.flat",
+        "source": "/Users/mac/Program/Code/rn-tutorials/node_modules/react-native-image-picker/android/build/intermediates/packaged_res/debug/layout/list_item.xml"
     },
     {
         "merged": "/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_amu_bubble_mask.9.png.flat",

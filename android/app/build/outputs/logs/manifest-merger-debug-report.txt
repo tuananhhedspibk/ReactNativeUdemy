@@ -1,14 +1,15 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:1:1-29:12
-INJECTED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:1:1-29:12
-INJECTED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:1:1-29:12
-INJECTED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:1:1-29:12
+ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:1:1-31:12
 MERGED from [:react-native-maps] /Users/mac/Program/Code/rn-tutorials/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-12:12
 MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.0.1.aar/e017fdd6b6fea379e8b173ad3ddfb3bb/AndroidManifest.xml:16:1-25:12
 MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/73ae8a5ba3e9dc492fb3ac667096fc48/AndroidManifest.xml:16:1-21:12
 MERGED from [:react-native-vector-icons] /Users/mac/Program/Code/rn-tutorials/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-navigation] /Users/mac/Program/Code/rn-tutorials/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-20:12
+MERGED from [:react-native-image-picker] /Users/mac/Program/Code/rn-tutorials/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-23:12
 MERGED from [com.facebook.react:react-native:0.54.4] /Users/mac/.gradle/caches/transforms-1/files-1.1/react-native-0.54.4.aar/f08987d38faac22738181f642fa9f268/AndroidManifest.xml:2:1-15:12
 MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /Users/mac/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/6b9e7baeeff73937f81b760791b240dc/AndroidManifest.xml:2:1-14:12
 MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /Users/mac/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/0427334b080fb530beeba0ad4c99275f/AndroidManifest.xml:2:1-13:12
@@ -38,20 +39,20 @@ MERGED from [com.android.support:support-core-utils:26.1.0] /Users/mac/.gradle/c
 MERGED from [com.android.support:support-core-ui:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/ee50cc124b742bc17151d5ed7a7bf96d/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/fb76f87dcafaa5a9a549b63b302db081/AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ebf5ba9c720bd32f37835a145d0e6ae8/AndroidManifest.xml:17:1-30:12
-INJECTED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:1:1-29:12
-INJECTED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:1:1-29:12
-INJECTED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:1:1-31:12
 	package
 		ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:2:5-30
 		INJECTED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:1:1-29:12
+		ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:1:1-31:12
 		INJECTED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:1:1-29:12
+		ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:1:1-31:12
 		INJECTED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:1:11-69
@@ -73,14 +74,24 @@ uses-permission#android.permission.ACCESS_FINE_LOCATION
 ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:6:5-78
 	android:name
 		ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.CAMERA
+ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:7:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:8:22-78
 application
-ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:7:5-27:19
+ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:9:5-29:19
 MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.0.1.aar/e017fdd6b6fea379e8b173ad3ddfb3bb/AndroidManifest.xml:24:5-19
 MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.0.1.aar/e017fdd6b6fea379e8b173ad3ddfb3bb/AndroidManifest.xml:24:5-19
 MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/73ae8a5ba3e9dc492fb3ac667096fc48/AndroidManifest.xml:18:5-20:19
 MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/73ae8a5ba3e9dc492fb3ac667096fc48/AndroidManifest.xml:18:5-20:19
 MERGED from [:react-native-navigation] /Users/mac/Program/Code/rn-tutorials/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-18:19
 MERGED from [:react-native-navigation] /Users/mac/Program/Code/rn-tutorials/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-18:19
+MERGED from [:react-native-image-picker] /Users/mac/Program/Code/rn-tutorials/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-image-picker] /Users/mac/Program/Code/rn-tutorials/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-21:19
 MERGED from [com.facebook.react:react-native:0.54.4] /Users/mac/.gradle/caches/transforms-1/files-1.1/react-native-0.54.4.aar/f08987d38faac22738181f642fa9f268/AndroidManifest.xml:13:5-20
 MERGED from [com.facebook.react:react-native:0.54.4] /Users/mac/.gradle/caches/transforms-1/files-1.1/react-native-0.54.4.aar/f08987d38faac22738181f642fa9f268/AndroidManifest.xml:13:5-20
 MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /Users/mac/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/6b9e7baeeff73937f81b760791b240dc/AndroidManifest.xml:12:5-20
@@ -124,49 +135,49 @@ MERGED from [com.android.support:support-compat:26.1.0] /Users/mac/.gradle/cache
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ebf5ba9c720bd32f37835a145d0e6ae8/AndroidManifest.xml:24:5-28:19
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ebf5ba9c720bd32f37835a145d0e6ae8/AndroidManifest.xml:24:5-28:19
 	android:label
-		ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:9:7-39
+		ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:11:7-39
 	android:icon
-		ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:10:7-41
+		ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:12:7-41
 	android:allowBackup
-		ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:13:7-34
 	android:theme
-		ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:14:7-38
 	android:name
-		ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:8:7-38
+		ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:10:7-38
 meta-data#com.google.android.maps.v2.API_KEY
-ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:13:7-15:66
+ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:15:7-17:66
 	android:value
-		ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:15:9-64
+		ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:17:9-64
 	android:name
-		ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:14:9-58
+		ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:16:9-58
 activity#com.rntutorials.MainActivity
-ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:16:7-25:18
+ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:18:7-27:18
 	android:label
-		ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:18:9-41
+		ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:20:9-41
 	android:windowSoftInputMode
-		ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:20:9-51
+		ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:22:9-51
 	android:configChanges
-		ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:19:9-79
+		ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:21:9-79
 	android:name
-		ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:17:9-37
+		ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:19:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:21:9-24:25
+ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:23:9-26:25
 action#android.intent.action.MAIN
-ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:22:13-65
+ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:24:13-65
 	android:name
-		ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:22:21-62
+		ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:24:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:23:13-73
+ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:25:13-73
 	android:name
-		ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:23:23-70
+		ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:25:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:26:7-84
+ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:28:7-84
 MERGED from [:react-native-navigation] /Users/mac/Program/Code/rn-tutorials/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:9-17:40
 MERGED from [:react-native-navigation] /Users/mac/Program/Code/rn-tutorials/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:9-17:40
 	android:exported
 		ADDED from [:react-native-navigation] /Users/mac/Program/Code/rn-tutorials/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:13-37
 	android:name
-		ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:26:17-81
+		ADDED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:28:17-81
 uses-sdk
 INJECTED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml
@@ -181,6 +192,8 @@ MERGED from [:react-native-vector-icons] /Users/mac/Program/Code/rn-tutorials/no
 MERGED from [:react-native-vector-icons] /Users/mac/Program/Code/rn-tutorials/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-navigation] /Users/mac/Program/Code/rn-tutorials/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-navigation] /Users/mac/Program/Code/rn-tutorials/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /Users/mac/Program/Code/rn-tutorials/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /Users/mac/Program/Code/rn-tutorials/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.54.4] /Users/mac/.gradle/caches/transforms-1/files-1.1/react-native-0.54.4.aar/f08987d38faac22738181f642fa9f268/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.54.4] /Users/mac/.gradle/caches/transforms-1/files-1.1/react-native-0.54.4.aar/f08987d38faac22738181f642fa9f268/AndroidManifest.xml:7:5-9:41
 MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /Users/mac/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/6b9e7baeeff73937f81b760791b240dc/AndroidManifest.xml:8:5-10:41
@@ -277,6 +290,22 @@ ADDED from [:react-native-navigation] /Users/mac/Program/Code/rn-tutorials/node_
 		ADDED from [:react-native-navigation] /Users/mac/Program/Code/rn-tutorials/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:13-83
 	android:name
 		ADDED from [:react-native-navigation] /Users/mac/Program/Code/rn-tutorials/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:13-84
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] /Users/mac/Program/Code/rn-tutorials/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] /Users/mac/Program/Code/rn-tutorials/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] /Users/mac/Program/Code/rn-tutorials/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] /Users/mac/Program/Code/rn-tutorials/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-image-picker] /Users/mac/Program/Code/rn-tutorials/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] /Users/mac/Program/Code/rn-tutorials/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:13-19:58
+	android:resource
+		ADDED from [:react-native-image-picker] /Users/mac/Program/Code/rn-tutorials/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:19:17-55
+	android:name
+		ADDED from [:react-native-image-picker] /Users/mac/Program/Code/rn-tutorials/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:18:17-67
 meta-data#android.support.VERSION
 ADDED from [com.android.support:design:25.3.1] /Users/mac/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/7af08b48bb700bd32574d8dd2fa165c6/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:transition:25.3.1] /Users/mac/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/50b5f345d51b56fa5625abd3b91af725/AndroidManifest.xml:22:5-24:34
@@ -311,12 +340,10 @@ MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/mac/.g
 		ADDED from [com.google.maps.android:android-maps-utils:0.5] /Users/mac/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/457c32c638b8f4cb85c8f377eeac1d20/AndroidManifest.xml:10:13-66
 	android:name
 		ADDED from [com.google.maps.android:android-maps-utils:0.5] /Users/mac/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/457c32c638b8f4cb85c8f377eeac1d20/AndroidManifest.xml:9:13-58
-uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-IMPLIED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:1:1-29:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:1:1-29:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:1:1-31:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:1:1-29:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/mac/Program/Code/rn-tutorials/android/app/src/main/AndroidManifest.xml:1:1-31:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
 meta-data#android.arch.lifecycle.VERSION
 ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ebf5ba9c720bd32f37835a145d0e6ae8/AndroidManifest.xml:25:9-27:47
 	android:value
