@@ -3,9 +3,11 @@ import { createStore,
 import thunk from 'redux-thunk'
 
 import placesReducer from './reducers/places';
+import uiReducer from './reducers/ui';
 
 const rootReducer = combineReducers({
-  places: placesReducer
+  places: placesReducer,
+  ui: uiReducer
 });
 
 // Use compose function to add middleware to store
