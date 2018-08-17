@@ -4,10 +4,12 @@ import thunk from 'redux-thunk'
 
 import placesReducer from './reducers/places';
 import uiReducer from './reducers/ui';
+import authReducer from './reducers/auth';
 
 const rootReducer = combineReducers({
   places: placesReducer,
-  ui: uiReducer
+  ui: uiReducer,
+  auth: authReducer
 });
 
 // Use compose function to add middleware to store

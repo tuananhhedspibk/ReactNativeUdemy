@@ -12,7 +12,7 @@ import ButtonWithBackground
   from '../../UI/ButtonWithBackground/ButtonWithBackground';
 
 import validate from '../../../utility/validation';
-import { tryAuth } from '../../store/actions/index';
+import { tryAuth, authAutoSignin } from '../../store/actions/index';
 
 import backgroundImage from '../../../assets/background.jpg';
 
@@ -56,6 +56,10 @@ class AuthScreen extends Component {
 
   componentWillUnmount() {
     Dimensions.removeEventListener('change', this.updateStyles);
+  }
+
+  componentDidMount() {
+    this.props.onAutoSignin();
   }
 
   updateStyles = dims => {
@@ -256,7 +260,8 @@ const styles = StyleSheet.create({
 
 const mapDispatchToProps = dispatch => {
   return {
-    onTryAuth: (authData, authMode) => dispatch(tryAuth(authData, authMode))
+    onTryAuth: (authData, authMode) => dispatch(tryAuth(authData, authMode)),
+    onAutoSignin: () => dispatch(authAutoSignin())
   };
 }
 
