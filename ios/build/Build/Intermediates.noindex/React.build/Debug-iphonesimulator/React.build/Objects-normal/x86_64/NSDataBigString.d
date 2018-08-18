@@ -1,12 +1,12 @@
 dependencies: \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/CxxBridge/NSDataBigString.mm \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/CxxBridge/NSDataBigString.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBigString.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBigString.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Exception.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Conv.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/boost_1_63_0/boost/implicit_cast.hpp \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/double-conversion/double-conversion.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/double-conversion/utils.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/double-conversion/double-conversion.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/double-conversion/utils.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Demangle.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/FBString.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Portability.h \

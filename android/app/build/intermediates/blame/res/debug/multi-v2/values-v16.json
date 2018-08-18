@@ -4,7 +4,7 @@
             "outputFile": "/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/fb76f87dcafaa5a9a549b63b302db081/res/values-v16/values-v16.xml",
+                    "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d4c712eff71cc4efc2a6ea70cc0f4a20/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b1ef84330b501df8e56cd92ab915c363/res/values-v16/values-v16.xml",
+                    "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f7e7adb928c2465391f8c1d26e649abd/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

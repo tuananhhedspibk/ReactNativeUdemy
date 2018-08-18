@@ -1,5 +1,8 @@
-import { SET_PLACES, REMOVE_PLACE } from './actionTypes';
-import { uiStartLoading, uiStopLoading, authGetToken } from './index';
+import { SET_PLACES, REMOVE_PLACE,
+  PLACE_ADDED, START_ADD_PLACE } from './actionTypes';
+
+import { uiStartLoading,
+  uiStopLoading, authGetToken } from './index';
 
 export const addPlace = (placeName, location, image) => {
   return dispatch => {
@@ -31,7 +34,8 @@ export const addPlace = (placeName, location, image) => {
       const placeData = {
         name: placeName,
         location: location,
-        image: parsedRes.imageUrl
+        image: parsedRes.imageUrl,
+        imagePath: parsedRes.imagePath
       };
       return fetch('https://awesome-places-8a128.firebaseio.com/places.json?auth=' + authToken, {
         method: 'POST',
@@ -39,11 +43,17 @@ export const addPlace = (placeName, location, image) => {
       })
     })
     .then(res => {
-      res.json();
+      if (res.ok) {
+        return res.json();
+      }
+      else {
+        throw new Error();
+      }
     })
     .then(parsedRes => {
       console.log(parsedRes);
       dispatch(uiStopLoading());
+      dispatch(placeAdded());
     })
     .catch(err => {
       console.log(err);
@@ -62,7 +72,14 @@ export const getPlaces = () => {
     .catch(() => {
       alert('No valid token found !!');
     })
-    .then(res => res.json())
+    .then(res => {
+      if (res.ok) {
+        return res.json();
+      }
+      else {
+        throw new Error();
+      }
+    })
     .then(parsedRes => {
       const places = [];
       for (let key in parsedRes) {
@@ -81,15 +98,15 @@ export const getPlaces = () => {
       alert('Something went wrong, sorry !!');
       console.log(err);
     });
-  }
-}
+  };
+};
 
 export const setPlaces = places => {
   return {
     type: SET_PLACES,
     places: places
-  }
-}
+  };
+};
 
 export const deletePlace = key => {
   return dispatch => {
@@ -104,7 +121,14 @@ export const deletePlace = key => {
     .catch(() => {
       alert('No valid token found !!');
     })
-    .then(res => res.json())
+    .then(res => {
+      if (res.ok) {
+        return res.json();
+      }
+      else {
+        throw new Error();
+      }
+    })
     .then(parsedRes => {
       console.log('Done !');
     })
@@ -119,5 +143,17 @@ export const removePlace = key => {
   return {
     type: REMOVE_PLACE,
     key: key
-  }
-}
+  };
+};
+
+export const placeAdded = () => {
+  return {
+    type: PLACE_ADDED
+  };
+};
+
+export const startAddPlace = () => {
+  return {
+    type: START_ADD_PLACE
+  };
+};

@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Aug 10 16:10:46 ICT 2018
+#Sat Aug 18 15:48:15 ICT 2018
 5.base=/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
 22.path=lib/armeabi-v7a/libfolly_json.so
 32.set=NATIVE_RESOURCE

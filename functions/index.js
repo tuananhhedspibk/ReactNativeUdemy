@@ -58,7 +58,8 @@ exports.storeImage = functions.https.onRequest((request, response) => {
               bucket.name +
               '/o/' +
               encodeURIComponent(file.name) +
-              '?alt=media&token=' + uuid
+              '?alt=media&token=' + uuid,
+            imagePath: '/places/' + uuid + '.jpg'
           });
         }
         else {
@@ -73,4 +74,12 @@ exports.storeImage = functions.https.onRequest((request, response) => {
     console.log('Token is invalid!');
     response.status(403).json({error: 'Unauthorized'});
   })
+});
+
+exports.deleteImage = functions.database.ref('/places/{placeId}').onDelete(event => {
+  const placeData = event._data
+  const imagePath = placeData.imagePath;
+
+  const bucket = gcs.bucket('awesome-places-8a128.appspot.com');
+  return bucket.file(imagePath).delete();
 });

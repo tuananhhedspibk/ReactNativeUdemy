@@ -17,17 +17,17 @@ dependencies: \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTUtils.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Views/RCTPointerEvents.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/CxxBridge/RCTCxxBridgeDelegate.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/CxxModule/RCTCxxModule.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/CxxModule/RCTCxxUtils.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSCExecutor.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSCNativeModules.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/ModuleRegistry.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSExecutor.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/NativeModule.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSCExecutor.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSCNativeModules.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/cxxreact/ModuleRegistry.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSExecutor.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/cxxreact/NativeModule.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Optional.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/dynamic.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/boost_1_63_0/boost/operators.hpp \
@@ -376,8 +376,8 @@ dependencies: \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/dynamic-inl.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Conv.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/boost_1_63_0/boost/implicit_cast.hpp \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/double-conversion/double-conversion.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/double-conversion/utils.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/double-conversion/double-conversion.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/double-conversion/utils.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Demangle.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Expected.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Preprocessor.h \
@@ -399,14 +399,14 @@ dependencies: \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Format-inl.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Exception.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/portability/Windows.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/Value.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/Unicode.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/noncopyable.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/privatedata/PrivateDataBase.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/jschelpers/Value.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/jschelpers/Unicode.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/jschelpers/noncopyable.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/privatedata/PrivateDataBase.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/json.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCHelpers.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCHelpers.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Modules/RCTDevSettings.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTDisplayLink.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTModuleData.h \
@@ -415,17 +415,17 @@ dependencies: \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Modules/RCTRedBox.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTErrorCustomizer.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/CxxUtils/RCTFollyConvert.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/CxxNativeModule.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/CxxModule.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/Instance.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/NativeToJsBridge.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSIndexedRAMBundle.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBigString.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSModulesUnbundle.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/Platform.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/MessageQueueThread.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/RAMBundleRegistry.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/cxxreact/CxxNativeModule.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/cxxreact/CxxModule.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/cxxreact/Instance.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/cxxreact/NativeToJsBridge.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSIndexedRAMBundle.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBigString.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSModulesUnbundle.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/cxxreact/Platform.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/cxxreact/MessageQueueThread.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/cxxreact/RAMBundleRegistry.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/CxxBridge/NSDataBigString.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/CxxBridge/RCTJSCHelpers.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/CxxBridge/RCTMessageThread.h \

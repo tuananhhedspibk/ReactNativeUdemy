@@ -17,9 +17,9 @@ dependencies: \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Views/RCTShadowView.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Views/RCTComponent.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTRootView.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/Surface/RCTSurfaceDelegate.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowView.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowViewDelegate.h \

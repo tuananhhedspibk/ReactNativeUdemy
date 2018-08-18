@@ -1,4 +1,4 @@
-#Sat Aug 11 16:29:58 ICT 2018
+#Sat Aug 18 16:12:05 ICT 2018
 base.0=/Users/mac/Program/Code/rn-tutorials/android/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

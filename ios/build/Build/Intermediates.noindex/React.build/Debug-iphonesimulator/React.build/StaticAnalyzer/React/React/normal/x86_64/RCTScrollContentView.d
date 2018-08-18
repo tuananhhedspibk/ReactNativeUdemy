@@ -8,8 +8,8 @@ dependencies: \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTAssert.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTDefines.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Views/UIView+React.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Views/ScrollView/RCTScrollView.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTEventDispatcher.h \

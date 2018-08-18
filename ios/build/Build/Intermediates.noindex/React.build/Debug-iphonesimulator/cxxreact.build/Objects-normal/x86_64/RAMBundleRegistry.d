@@ -2,7 +2,7 @@ dependencies: \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/ReactCommon/cxxreact/RAMBundleRegistry.cpp \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/ReactCommon/cxxreact/RAMBundleRegistry.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../ReactCommon/cxxreact/JSModulesUnbundle.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/noncopyable.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/jschelpers/noncopyable.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Memory.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Traits.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Portability.h \

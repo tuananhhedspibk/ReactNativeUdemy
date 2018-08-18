@@ -2,8 +2,8 @@ dependencies: \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Views/UIView+React.m \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Views/UIView+React.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Views/RCTComponent.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTAssert.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTDefines.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTLog.h \
@@ -16,4 +16,4 @@ dependencies: \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTBridgeModule.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTFrameUpdate.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h

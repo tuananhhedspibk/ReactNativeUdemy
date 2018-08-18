@@ -8,8 +8,8 @@ dependencies: \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTBridgeModule.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTFrameUpdate.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTBridge+Private.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTEventDispatcher.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \

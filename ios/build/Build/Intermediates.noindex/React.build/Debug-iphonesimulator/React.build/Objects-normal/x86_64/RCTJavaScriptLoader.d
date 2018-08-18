@@ -2,9 +2,9 @@ dependencies: \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTJavaScriptLoader.mm \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTBridge.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTBridgeModule.h \
@@ -18,9 +18,9 @@ dependencies: \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTUtils.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Views/RCTPointerEvents.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/mac/Program/Code/rn-tutorials/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/mac/Program/Code/rn-tutorials/ios/Build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTMultipartStreamReader.h \
   /Users/mac/Program/Code/rn-tutorials/node_modules/react-native/React/Base/RCTPerformanceLogger.h
